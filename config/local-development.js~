@@ -1,0 +1,9 @@
+module.exports = {
+    server: {
+        port: 3978
+    },
+    ms: {
+        appId: '1b4c8108-208e-4b3d-8ad9-f3a98fa1b2ab',
+        appPassword: 'cVJXZuhHYfb68Rz6cRs2o1w'
+    }
+};

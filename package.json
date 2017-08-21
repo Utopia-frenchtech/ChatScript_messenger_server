@@ -1,0 +1,16 @@
+{
+  "name": "altai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.3",
+    "config": "^1.26.1",
+    "express": "^4.15.3"
+  }
+}
